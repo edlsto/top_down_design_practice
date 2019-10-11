@@ -1,0 +1,42 @@
+1 Get dog
+  1.1 Find dog in apartment
+  1.2 Get Leash
+    1.2.1 Walk to dog bin
+    1.2.2 Pick up leash
+  1.3 Walk over to dog
+  1.4 Attach leash to dog
+    1.4.1 Pull clip
+  1.5 Get poop bag
+    1.5.1 Walk over to dog bin
+    1.5.2 Pick up poop bag
+  1.6 Pick route
+    1.6.1 Check weather
+    1.6.2 Check my schedule
+  1.7 Bring dog outside
+    1.7.1 Walk out door
+      1.7.1.1 Turn door handle
+      1.7.1.2 Push door
+      1.7.1.3 Lock door with key
+    1.7.2 Go down stairs
+    1.7.3 Walk out outside door
+2 Walk dog
+  2.1 Follow route
+    2.1.1 Go right
+    2.1.2 Go right
+    2.1.3 Go right
+    2.1.4 Go right
+  2.2 Let dog pee
+  2.3 Let dog sniff
+  2.4 Let dog poop
+    2.4.1 Pick up poop
+    2.4.2 Throw poop in trash
+3 Go back home
+  3.1 Walk back to front door
+  3.2 Open door
+  3.3 Walk up stairs
+  3.4 Open door of apartment
+    3.4.1 Unlock door
+    3.4.2 Turn door handle
+    3.4.3 Walk into apartment
+  3.5 Unclip dog
+  3.6 Pet dog
