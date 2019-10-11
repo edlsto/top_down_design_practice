@@ -40,3 +40,6 @@
     3.4.3 Walk into apartment
   3.5 Unclip dog
   3.6 Pet dog
+  3.7 Give dog treat
+    3.7.1 Go get treat
+    3.7.2 Toss treat to dog
